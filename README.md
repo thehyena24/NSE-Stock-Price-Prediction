@@ -5,8 +5,8 @@ This project involved making use of time series models to predict the stock clos
 We were supposed to use the stock data from the official NSE site (dated between 17th October 2022 and 17th October 2023) in order to predict the closing price on 20th (18th and 19th were Saturday and Sunday respectively). We had to make the predictions by the end of 19th October, 2023. \\
 
 The difference between the predictions and the actual `CLOSE` values were :
-APOLLOHOSP - 28 
-TITAN - 6 
-ASIANPAINT - 15
+- APOLLOHOSP - 28 
+- TITAN - 6 
+- ASIANPAINT - 15
 
 Note: Yet to upload the Jupyter Notebook.
