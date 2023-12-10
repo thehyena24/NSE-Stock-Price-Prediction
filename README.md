@@ -8,5 +8,3 @@ The difference between the predictions and the actual `CLOSE` values were :
 - APOLLOHOSP - 28 
 - TITAN - 6 
 - ASIANPAINT - 15
-
-Note: Yet to upload the Jupyter Notebook.
